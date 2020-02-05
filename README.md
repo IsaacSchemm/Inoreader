@@ -1,13 +1,8 @@
 ## .NET wrapper for [Inoreader](http://inoreader.com) API 
 
+Fork of https://github.com/dkotov/Inoreader
+
 See Inoreader official API documentation [here](http://www.inoreader.com/developers).
-
-### Installation
-
-Install [NuGet package](http://www.nuget.org/packages/Inoreader) by running following command in Package Manager Console:
-```
-PM> Install-Package Inoreader
-```
 
 ### Usage
 
