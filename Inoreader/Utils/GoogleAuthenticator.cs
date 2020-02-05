@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using RestSharp;
+using RestSharp.Authenticators;
 
 namespace Inoreader.Utils
 {
